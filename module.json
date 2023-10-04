@@ -42,4 +42,6 @@
       "flags": {}
     }
   ]
+  "manifest": "https://raw.githubusercontent.com/atleticano-snp/gm-macros-pf2e/main/module.json",
+  "download": "https://github.com/atleticano-snp/gm-assets/archive/refs/heads/main.zip"
 }
