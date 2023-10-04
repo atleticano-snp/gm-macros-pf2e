@@ -1,0 +1,45 @@
+{
+  "id": "gm-macros-pf2e",
+  "title": "GM-Macros: PF2e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "gm-macros",
+      "label": "GM-Macros",
+      "path": "packs/gm-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "gm-musics",
+      "label": "GM-Musics",
+      "path": "packs/gm-musics",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "gm-actors",
+      "label": "GM-Actors",
+      "path": "packs/gm-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
