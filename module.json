@@ -1,10 +1,10 @@
 {
   "id": "gm-macros-pf2e",
   "title": "GM-Macros: PF2e",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "13",
+    "verified": "13"
   },
   "packs": [
     {
